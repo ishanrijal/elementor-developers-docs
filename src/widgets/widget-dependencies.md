@@ -6,7 +6,7 @@ Some widgets are dependent on custom scripts for functionality and custom styles
 
 ## Defining Dependencies
 
-Inside the widget class we can deffine the required JS and CSS dependencies the following way:
+Inside the widget class we can define the required JS and CSS dependencies the following way:
 
 ```php
 class Elementor_Test_Widget extends \Elementor\Widget_Base {
